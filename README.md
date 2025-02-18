@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working as an administrative assistant
 - 🌱 Transitioning to the programming area
-- 👯 I intend to collaborate on Full-Stack projects, but with a focus on the back-end
+- 👯 I intend to collaborate on Full-Stack projects, but with a focus on the Back-End
 - 😄 Pronouns: he/him
 
 <table>
