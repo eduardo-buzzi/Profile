@@ -3,7 +3,6 @@
 - 🔭 I am currently working as an administrative assistant
 - 🌱 Transitioning to the programming area
 - 👯 Back-End
-- 😄 Pronouns: he/him
 
 <table>
   <tr style="border: none;">
@@ -43,9 +42,6 @@
 
 ### 🛠️ Skills
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)
 
 
