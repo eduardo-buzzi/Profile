@@ -4,43 +4,23 @@
 - 💻 Estudo desenvolvimento Full-Stack há 1 ano;
 - 🌱 Estou aprendendo Java, HTML e CSS;
 
-
-
-<table>
-  <tr style="border: none;">
-    <td style="border: none;">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=eduardo-buzzi&show_icons=true&theme=dark&title_color=C00102&icon_color=C00102"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=eduardo-buzzi&show_icons=true&title_color=C00102&icon_color=C00102"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=eduardo-buzzi&show_icons=true&title_color=C00102&icon_color=C00102" />
-      </picture>
-    </td>
-    <td style="border: none;">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-buzzi&layout=compact&theme=dark&title_color=C00102"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-buzzi&layout=compact&title_color=C00102"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-buzzi&layout=compact&title_color=C00102" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=eduardo-buzzi&show_icons=true&theme=dark&title_color=C00102&icon_color=C00102&cache_seconds=1800&v=2"
+    alt="GitHub Stats"
+    height="165"
+    style="margin-right: 10px;"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-buzzi&layout=compact&theme=dark&title_color=C00102&cache_seconds=1800&v=2"
+    alt="Top Langs"
+    height="165"
+  />
+</div>
 
 ### 📫 Minhas redes
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eduardocristofolini/)
-
 
 ### 🛠️ Skills
 
