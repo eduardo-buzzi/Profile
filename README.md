@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente em transição de carreira para a área de programação;
 - 💻 Estudo desenvolvimento Full-Stack há 1 ano;
+- 💻 Cursando Análise e Desenvolvimento de Sistemas, 2° Semestre;
 - 🌱 Estou aprendendo Java, HTML e CSS;
 
 <div style="display: flex; align-items: flex-start;">
